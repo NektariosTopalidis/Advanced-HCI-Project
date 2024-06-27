@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508767523496",
+    "project_id": "advanced-hci-project-8237d",
+    "storage_bucket": "advanced-hci-project-8237d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508767523496:android:9c9ffceead43683aefa89d",
+        "android_client_info": {
+          "package_name": "gr.nektariostop.ergasiaadvancedhci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxzhuQHYpVQg30U7Dn6z61Gt09wzV6Uck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ErgasiaAdvancedHCI</string>
+    <string name="logo_content_description">Logo</string>
+    <string name="barcode_scan_icon_content_description">Barcode Scan Icon</string>
+</resources>
